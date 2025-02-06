@@ -20,7 +20,7 @@ if st.button("Predict"):
 # add for running the code
 # streamlit run appStreamlit.py
 # open the browser with the link
-# git status   
+# git statusgit    
 # http://localhost:8501/?name=John
 
 
