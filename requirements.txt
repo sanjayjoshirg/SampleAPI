@@ -1,0 +1,6 @@
+Flask
+mlflow
+mlflow
+mlflow_skinny
+mlflow_skinny
+scikit_learn
