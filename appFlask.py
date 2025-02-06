@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/hello", methods=["GET"])
 def foo():
-    return "<H3> Hello User welcome to MLOPs class 6Feb25 2318"
+    return "<H3> Hello User welcome to MLOPs class 6Feb25  2318"
 
 
 if __name__ == "__main__":
